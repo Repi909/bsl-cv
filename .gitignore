@@ -1,0 +1,15 @@
+# Environment files
+venv/
+*.code-workspace
+.markdownlint.json
+
+# Ignore the data files as these are available online
+src/data/
+
+# Ignore pre-commit files generated during checks
+.ruff_cache/
+
+# Ignore build folder
+*.egg-info/
+*.egg/
+__pycache__/
