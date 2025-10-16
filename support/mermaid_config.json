@@ -1,0 +1,16 @@
+{
+    "theme": "dark",
+    "themeVariables": {
+        "todayLineColor": "rgba(255, 0, 0, 0)",
+        "gridColor": "rgba(217, 222, 219, 0.1)",
+        "milestoneColor": "rgba(255, 0, 0, 0.3)",
+        "milestoneTextColor": "#ffaaaa"
+    },
+    "gantt": {
+        "titleTopMargin": 5,
+        "leftPadding": 270,
+        "barHeight": 30,
+        "barGap": 4,
+        "axisFormat": "%d-%m-%y"
+    }
+}
