@@ -1,5 +1,5 @@
 # Environment files
-venv/
+.venv/
 *.code-workspace
 .markdownlint.json
 
@@ -13,3 +13,4 @@ src/data/
 *.egg-info/
 *.egg/
 __pycache__/
+
